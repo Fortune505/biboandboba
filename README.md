@@ -35,5 +35,6 @@
 Пиво, пиво, пиво, пиво!
 Пиво, пиво, пиво, пиво!**
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmusic.yandex.ru%2Falbum%2F11885211%2Ftrack%2F70394717&psig=AOvVaw2EaSzK3-Uz0YW-iVXEz_Nf&ust=1759054683543000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOi6qb_b-I8DFQAAAAAdAAAAABAE)
+![](https://commons.wikimedia.org/wiki/File:Weizenbier.jpg#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Weizenbier.jpg)
+
 
