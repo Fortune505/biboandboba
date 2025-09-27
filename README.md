@@ -35,7 +35,7 @@
 Пиво, пиво, пиво, пиво!
 Пиво, пиво, пиво, пиво!**
 
-<center>![Пиво](https://github.com/Fortune505/biboandboba/blob/main/Weizenbier.jpg)</center>
+![Пиво](https://github.com/Fortune505/biboandboba/blob/main/Weizenbier.jpg)
 
 
 
