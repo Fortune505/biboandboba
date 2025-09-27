@@ -35,6 +35,7 @@
 Пиво, пиво, пиво, пиво!
 Пиво, пиво, пиво, пиво!**
 
-![](https://commons.wikimedia.org/wiki/File:Weizenbier.jpg#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Weizenbier.jpg)
+![Пиво](https://commons.wikimedia.org/wiki/File:Weizenbier.jpg#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Weizenbier.jpg)
+
 
 
